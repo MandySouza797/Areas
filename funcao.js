@@ -10,8 +10,8 @@ function areaTriangulo (b, a) {
 }
 function areaRetangulo (b, h) {
     let area = b*h
-    console.log("A area do retangulo é" )
-    return area
+    console.log("A area do retangulo é: "+area )
+    
 }
 module.exports = {
     areaCirculo, 
